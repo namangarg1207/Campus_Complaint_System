@@ -16,16 +16,16 @@
 
 ---
 
-##  Screenshots
 
-<div align="center">
+
+<!-- <div align="center">
   <img 
     src="https://github.com/user-attachments/assets/48127d29-d387-4ce2-85cb-0a2356d05b18"
     alt="Smart Campus Complaint System Landing Page"
     width="900"
   />
   <p><i>Smart Campus Complaint System – Landing Page</i></p>
-</div>
+</div> -->
 
 
 ---
@@ -33,7 +33,6 @@
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
-- [Screenshots](#-screenshots)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Architecture](#-architecture)
